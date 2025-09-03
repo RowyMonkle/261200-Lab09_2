@@ -1,4 +1,4 @@
-package oop.ocp;
+package oop.lsp;
 
 public class Ostrich implements Moveable{
     //Implements only Moveable, you know that Ostrich can't fly right?
@@ -7,3 +7,4 @@ public class Ostrich implements Moveable{
         System.out.println("Ostrich sprint fast through Savanna.");
     }
 }
+

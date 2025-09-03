@@ -1,4 +1,4 @@
-package oop.ocp;
+package oop.lsp;
 
 public class Eagle implements Flyable {
     @Override
@@ -11,3 +11,4 @@ public class Eagle implements Flyable {
         System.out.println("Eagle soars high above the (Jack) Sparrow.");
     }
 }
+

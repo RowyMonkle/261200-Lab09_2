@@ -1,4 +1,4 @@
-package oop.ocp;
+package oop.lsp;
 
 public class Penguin implements Moveable { //respects LSP
     @Override
@@ -10,4 +10,5 @@ public class Penguin implements Moveable { //respects LSP
     public void fly() {
         System.out.println("Sorry sir! Even though you have wings, you cannot fly.");
     }
+
 }
